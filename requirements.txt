@@ -236,7 +236,7 @@ rfc3986==1.3.2
 robobrowser==0.5.3
 rocketchat-API==0.6.36
 rope==0.14.0
-rsa==4.0
+rsa==4.7
 ruamel-yaml==0.15.46
 s3transfer==0.3.3
 sanic==19.12.2
