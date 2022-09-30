@@ -106,7 +106,7 @@ jdcal==1.4.1
 jedi==0.15.1
 Jinja2==2.10.3
 jmespath==0.9.5
-joblib==0.13.2
+joblib==1.2.0
 Js2Py==0.67
 json5==0.8.5
 jsonpickle==1.3
